@@ -96,7 +96,7 @@ Used to generate supplier risk scoring logic and support the creation of monthly
 
 ### Executive Overview
 
-![Executive Overview](dashboard/Executive Overview.png)
+![Executive Overview](dashboard/ExecutiveOverview.png)
 
 Status: **Completed**
 
