@@ -13,7 +13,7 @@ The same business problem is implemented in both **Power BI** and **Tableau**, b
 ## Live Dashboards
 
 - [View the interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmQ2YzE4ODctYzY2OS00Njg4LWExMDMtNjlhMGUzMTY2MzM5IiwidCI6IjRmMWUwNDRkLTNkNzAtNDk5MC1iMjZhLWI5NWYwYzY0MmUxYSIsImMiOjR9)
-- [View the Tableau dashboard](TABLEAU_LINK)
+- [View the Tableau dashboard](https://public.tableau.com/shared/Z34PMC76K?:display_count=n&:origin=viz_share_link)
 
 > **Tableau status:** The Tableau implementation is still being completed. The live link and final findings will be added once the remaining report pages are finalized and published.
 
