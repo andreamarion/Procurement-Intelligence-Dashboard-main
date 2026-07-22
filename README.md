@@ -179,6 +179,22 @@ Business Intake → Source Mapping → Data Extraction → Data Validation & Cle
 
 ---
 
+## Power BI Report Pages
+
+### Executive Overview
+
+![Power BI Executive Overview](power-bi/screenshots/power-bi-executive-overview.png)
+
+### Supplier Performance
+
+![Power BI Supplier Performance](power-bi/screenshots/power-bi-supplier-performance.png)
+
+### Supplier Performance
+
+![Power BI Supplier Risk](power-bi/screenshots/power-bi-supplier-risk.png)
+
+---
+
 ## Power BI Data Model
 
 The Power BI implementation uses `orders_with_risk_score` as the central fact table, supported by dimension tables for date, supplier, product, and category.
