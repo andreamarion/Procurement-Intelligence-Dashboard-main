@@ -321,9 +321,7 @@ Business Intake → Source Mapping → Data Extraction & Staging → Data Valida
 
 ![Tableau Executive Overview](tableau/screenshots/tableau-executive-overview.png)
 
-**Status:** Completed
-
-The Executive Overview currently includes:
+The Executive Overview includes:
 
 - Total Spend
 - Average Supplier Spend
@@ -336,21 +334,15 @@ The Executive Overview currently includes:
 
 ### Supplier Performance
 
-**Status:** In Progress
+The supplier performance includes:
 
-Planned focus areas:
+- Supplier-level performance matrix
+- Defect breakdown
+- Lead Time Variance distribution by supplier
+- Defect rate by supplier 
 
-- Supplier-level delivery performance
-- Lead Time Variance
-- Supplier quality trends
-- On-Time and In-Full comparisons
-- Supplier ranking and drill-down analysis
-
-> **Placeholder:** Add final Supplier Performance screenshot here after completion.
-
-```markdown
 ![Tableau Supplier Performance](tableau/screenshots/tableau-supplier-performance.png)
-```
+
 
 ### Supplier Risk
 
@@ -380,7 +372,8 @@ Planned focus areas:
 - OTIF %
 - On-Time %
 - In-Full %
-- Defect Rate
+- Defect Rate %
+- Perfect Order Rate %
 - Supplier Spend Concentration
 - Lead Time Variance
 - Average Risk Score
@@ -429,10 +422,10 @@ Planned validation steps:
 - Enriched analysis-ready dataset creation
 - Executive Overview dashboard
 - Tableau workbook setup
+- Supplier Performance dashboard
 
 ### In Progress
 
-- Supplier Performance dashboard
 - Supplier Risk dashboard
 - Final KPI validation
 - Final dashboard polish
