@@ -508,4 +508,4 @@ supply-chain-procurement-intelligence/
 # Author
 
 **Andrea Marion**  
-BI Developer | Operations Analytics
+Operations Analytics | BI Developer 
